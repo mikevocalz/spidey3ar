@@ -12,9 +12,9 @@
 
 [![Watch the Demo](https://i3.ytimg.com/vi/5JIDTBEiyHQ/hqdefault.jpg)](https://youtu.be/5JIDTBEiyHQ)
 
-### **_Description_**
+### **_Description 🕸️ 🕷️ 🕸️ _**
 
-#### A Clone of the Spider-Man: No way home mobile App. I usally see tutorials where people learn developement and they all clone the same apps. I wanted to go above and beyong to learn new things in my developement career and clone this alone and do something no one else has ever done. The Spider-Man: No Way Home app was one of my favorite mobile apps of 2021. My goal was not only clone this but to tackle the complexity of AR within the react native ecosystem and dual drawers within react-navigation. Along the way ive made a few visual design choices to pay to All three Spidermen in the movie.
+#### A Clone of the Spider-Man: No way home mobile App. I usally see tutorials where people learn developement and they all clone the same apps. I wanted to go above and beyong to learn new things in my developement career and clone this alone and do something no one else has ever done. The Spider-Man: No Way Home app was one of my favorite mobile apps of 2021. My goal was not only clone this but to tackle the complexity of AR within the react native ecosystem and dual drawers within react-navigation. Along the way ive made a few visual design choices to pay homage to all three Spidermen in the movie. Enjoy the Immersive Experience!
 
 ---
 
